@@ -1,0 +1,17 @@
+int main
+return 00;
+return 00;
+return 00;
+return 00;
+return 00;
+return 00;
+return 00;
+return 00;
+return 00;
+return 00;
+return 00;
+return 00;
+return 00;
+return 00;
+return 00;
+return 00;
